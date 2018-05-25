@@ -2,9 +2,3 @@ name: datacourse
 dependencies:
 - python=2.7
 - jupyter
-- seaborn
-- pip
-- pip:
-  - data_sources
-  - optiver.etl
-  - optiver.research.models
