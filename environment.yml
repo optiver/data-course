@@ -2,3 +2,4 @@ name: datacourse
 dependencies:
 - python=2.7
 - jupyter
+- seaborn
