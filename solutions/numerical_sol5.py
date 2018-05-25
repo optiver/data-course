@@ -1,0 +1,1 @@
+df['both'] = df['high_volatility'] & df['good_market_share']

@@ -1,0 +1,1 @@
+100. * ((df['PRICE']!=df['BidPrice']) & (df['PRICE']!=df['AskPrice'])).sum() / len(df)

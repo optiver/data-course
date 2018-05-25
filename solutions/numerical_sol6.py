@@ -1,0 +1,1 @@
+df['Comment'] = np.where(df['high_volatility'], 'HighVol', 'LowVol')

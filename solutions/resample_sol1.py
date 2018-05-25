@@ -1,0 +1,1 @@
+df_vols.groupby('RELATIVE_EXPIRY').resample('10min').last()['VOLATILITY'].unstack(level='RELATIVE_EXPIRY').ffill()

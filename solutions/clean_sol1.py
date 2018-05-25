@@ -1,0 +1,1 @@
+df_qte[df_qte.BidPrice > 0]

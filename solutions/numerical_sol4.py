@@ -1,0 +1,1 @@
+df['high_volatility'] = df['volatility'] > 20.
